@@ -1,0 +1,7 @@
+{
+  "name": "Remix: VocalClean",
+  "description": "AI-powered audio transcription and cleaning tool. Transform raw audio into polished text and subtitles with Gemini AI.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
