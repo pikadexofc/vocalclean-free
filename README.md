@@ -33,6 +33,6 @@ VocalClean is a high-performance audio transcription and cleaning utility design
 ---
 
 <div align="center">
-  <p><b>PixelPie Media</b> • Made with love by Pico</p>
+  <p><b>PixelPie Media</b> • Made with ❤️ by Pickko</p>
   <p><i>Modern, minimal, and precise software utilities.</i></p>
 </div>
