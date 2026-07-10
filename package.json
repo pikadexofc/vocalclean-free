@@ -1,5 +1,5 @@
 {
-  "name": "react-example",
+  "name": "vocalclean-free",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -32,5 +32,6 @@
     "tsx": "^4.21.0",
     "typescript": "~5.8.2",
     "vite": "^6.2.0"
-  }
+  },
+  "description": "AI-powered audio transcription and cleaning tool powered by Gemini."
 }
